@@ -35,7 +35,7 @@ My main focus is **HTML, CSS and JavaScript**, and I'm currently expanding my fr
 
 I care about writing clean and maintainable code, building responsive layouts, and paying attention to the small visual details that turn a functional page into a polished interface.
 
-I learn by building  taking an idea, turning it into a real interface, and improving it along the way.
+I learn by building - taking an idea, turning it into a real interface, and improving it along the way.
 
 ---
 
