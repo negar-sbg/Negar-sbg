@@ -41,6 +41,8 @@ I learn by building - taking an idea, turning it into a real interface, and impr
 
 ## TECH STACK
 
+## TECH STACK
+
 <div align="center">
 
 |  Frontend  |  Tools  | Currently Learning |
@@ -49,8 +51,10 @@ I learn by building - taking an idea, turning it into a real interface, and impr
 |    CSS3    |  GitHub |  Modern JavaScript |
 | JavaScript | VS Code |   React Ecosystem  |
 |  Bootstrap |  Figma  |          —         |
+|      —     |  Docker |          —         |
 
 </div>
+
 
 ---
 
